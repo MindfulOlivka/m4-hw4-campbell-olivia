@@ -1,0 +1,28 @@
+h1, h2 {
+    text-align: center;
+    color: rgb(40, 56, 40);
+}
+
+div.menu {
+    font-size: 20px;
+    color: brown;
+}
+
+#Green {
+    background-color: rgb(161, 184, 161);
+    padding: 20px; 
+}
+
+.Portrait {
+    display: grid;
+    place-items: center;
+}
+
+div > p {
+    text-align: center;
+}
+
+div.em :nth-child(odd) {
+    padding: 10px;
+    background: rgb(186, 207, 186)   
+}
