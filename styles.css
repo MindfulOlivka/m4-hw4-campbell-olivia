@@ -18,6 +18,10 @@ div.menu {
     place-items: center;
 }
 
+.em {
+    font-style: italic;
+}
+
 div > p {
     text-align: center;
 }
